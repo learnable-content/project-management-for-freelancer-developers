@@ -33,7 +33,7 @@ We're also going to talk about what to look for in a project management tool as 
 Are you ready to get started? Then head over to the next lesson!
 
 
-# Index for the Project Management For Freelance Developers course
+# Handouts
 
 * [Lesson 1.1](Project_Management_for_Freelance_Developers_handouts/1-1.md)
 * [Lesson 2.1](Project_Management_for_Freelance_Developers_handouts/2-1.md)
