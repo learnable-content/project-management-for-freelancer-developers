@@ -31,5 +31,4 @@ We're also going to talk about what to look for in a project management tool as 
 
 #What's next?
 
-View all handouts for the course Project Management for Freelance Developers  
-[Lesson 1.1](https://github.com/learnable-content/project-management-for-freelancer-developers/tree/lesson1.1) 
+View all handouts for the course [Project Management for Freelance Developers ](https://www.sitepoint.com/premium/courses/project-management-for-freelance-developers-2899) on [Lesson 1.1](https://github.com/learnable-content/project-management-for-freelancer-developers/tree/lesson1.1)
