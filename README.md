@@ -1,7 +1,8 @@
 
 # Introduction
 
-Hello! My name is Michelle Nickolaisen and in this lesson I'm going to introduce you to the concepts that we will cover in the Project Management for Freelance Developers course.
+
+Hello! My name is Michelle Nickolaisen and in this lesson I'm going to introduce you to the concepts that we will cover in the [*Project Management for Freelance Developers*](https://github.com/learnable-content/project-management-for-freelancer-developers/) course.
 
 # What is project management?
 
@@ -28,6 +29,5 @@ We'll cover the way that you can make time in your business for administrative w
 
 We're also going to talk about what to look for in a project management tool as far as what features you should be considering based on how you work and the kinds of clients that you work with. I'll tell you about some popular solutions like Asana and Basecamp.
 
-# What's next?
-
-View all handouts for the course Project management for Freelance Developers  go to [Lesson 1.1](https://github.com/learnable-content/project-management-for-freelancer-developers/tree/lesson1.1) 
+#What's next?
+View all handouts for the course* Project Management for Freelance Developers*  [Lesson 1.1](https://github.com/learnable-content/project-management-for-freelancer-developers/tree/lesson1.1) 
