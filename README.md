@@ -30,4 +30,4 @@ We're also going to talk about what to look for in a project management tool as 
 
 # What's next?
 
-Are you ready to get started? Then head over to the next lesson!
+View all handouts for the course Project management for Freelance Developers  go to [Lesson 1.1](https://github.com/learnable-content/project-management-for-freelancer-developers/tree/lesson1.1) 
