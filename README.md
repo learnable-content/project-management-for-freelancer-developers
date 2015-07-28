@@ -1,4 +1,4 @@
-![](headers/Project Lesson 2.4.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 2.4.jpg)
 # Introduction
 
 At this step we will discuss **Waterfall** project management.
