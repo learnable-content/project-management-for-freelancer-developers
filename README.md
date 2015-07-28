@@ -1,4 +1,4 @@
-![](headers/Project Lesson 4.3.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 4.3.jpg)
 # Introduction
 
 At this step we're going to talk about Asana, which is my personal favorite.
@@ -21,18 +21,18 @@ The best uses for Asana in my opinion are if you have a lot of projects to keep 
 
 # Explore Asana
 
-![](img/4-3_list.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-3_list.png)
 
 So this is my Asana set up. You can see the list and it's color coded.
 
-![](img/4-3_view.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-3_view.png)
 
 You can change the view here to recently completed tasks or tasks by project or tasks by due date.
 
-![](img/4-3_attachments.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-3_attachments.png)
 
 There is a special tab to show all of the attachments. Asana has built-in integration with Dropbox and Google Drive.
 
-![](img/4-3_calendar.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-3_calendar.png)
 
 This is how calendar view look like. You can add tasks by email, you can print it, you can sync to an outside calendar.
