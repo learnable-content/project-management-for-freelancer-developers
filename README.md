@@ -5,7 +5,7 @@ At this step we are going to talk about **Agile** project management.
 
 # Overview of Agile project management
 
-![](img/2-1_agile.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/2-1_agile.png)
 
 This graph shows you the overview of Agile project management. There's a **test**, **release**, **design**, **build** and **configure** cycle that just goes over and over again.
 
