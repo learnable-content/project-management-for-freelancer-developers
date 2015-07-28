@@ -4,7 +4,7 @@
 At this step we are going to discuss **Lean** project management.
 
 # Overview of Lean project management
-![](img/2-2_lean.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/2-2_lean.png)
 
 Lean has the following phases: **defining**, **measuring**, **analyzing**, **improving**, and **controlling**. This is similar to Agile: it's a loop that you go through during the process.
 
