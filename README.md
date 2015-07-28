@@ -4,7 +4,7 @@
 At this step we will discuss **Waterfall** project management.
 
 # Overview of Waterfall project management
-![](img/2-4_waterfall.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/2-4_waterfall.png)
 
 This diagram shows you the flow of Waterfall project management. One of the things you'll notice is that there are no circles or feedback loops here. Waterfall is the oldest of the methods that we've covered and it's kind of out of fashion now which is why it's last in this series. Waterfall got started in manufacturing and construction industries where you're creating a physical product. In such industries it's very difficult, if not impossible, to go back and change things by taking new feedback into account. For example, when you're building a house, after you already have the whole framework up, the walls, you can't just move a wall to another place. So, once software development industry emerged, people needed a way to manage this and Waterfall methodology got adapted, because literally that was the only thing that existed.
 
