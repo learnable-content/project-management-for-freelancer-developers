@@ -1,4 +1,4 @@
-![](headers/Project Lesson 2.3.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 2.3.jpg)
 # Introduction
 
 At this step we're going to be talking about **Scrum** project management.
