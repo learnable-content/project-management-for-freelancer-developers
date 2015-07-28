@@ -1,4 +1,4 @@
-![](headers/Project Lesson 4.2.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 4.2.jpg)
 # Introduction
 
 In the next steps, we're going to cover a couple of popular choices and talk about why they might work for you. The first one we're going to talk about is **Basecamp**.
@@ -25,29 +25,29 @@ Basecamp is built for teams. It's easy to get used to its features. So it's good
 
 Let's see what Basecamp looks like from the inside.
 
-![](img/4-2_projects.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-2_projects.png)
 
 This is the list of the projects and I have one trial project here. 
 
-![](img/4-2_todos.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-2_todos.png)
 
 I've opened my project. As you see, there are discussions and to-do lists.
 
-![](img/4-2_todos_detail.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-2_todos_detail.png)
 
 You can change the due date on a to-do list just by clicking on it. You can also change the assignee. Tasks can be added as well.
 
 Then you can attach files.
 
-![](img/4-2_files.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-2_files.png)
 
 All of the files for the project are displayed here no matter where you added them. There are text documents that you can save and edit.
 
-![](img/4-2_calendar.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-2_calendar.png)
 
 There is also the events, which is basically the calendar. You can set calendar so that it syncs with Google Calendar. This way you can get reminders on your phone about the upcoming events.
 
-![](img/4-2_discussion.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/4-2_discussion.png)
 
 This is what a discussion looks like. You can attach the files, and it shows up back on the files screen on the project.
 
