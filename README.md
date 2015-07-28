@@ -1,4 +1,4 @@
-![](headers/Project Lesson 2.1.jpg)
+![](Project_Management_for_Freelance_Developers_handoutsheaders/Project Lesson 2.1.jpg)
 # Introduction
 
 At this step we are going to talk about **Agile** project management.
