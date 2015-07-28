@@ -1,4 +1,4 @@
-![](headers/Project Lesson 3.3.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 3.3.jpg)
 # Introduction
 
 At this we will discuss managing other people, the common mistakes that come up and how to avoid them.
