@@ -1,4 +1,4 @@
-![](headers/Project Lesson 3.4.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 3.4.jpg)
 # Introduction
 
 At this step we are going to talk about how to plan projects the right way.
