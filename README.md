@@ -1,4 +1,4 @@
-![](headers/Project Lesson 4.5.jpg)
+![](Project_Management_for_Freelance_Developers_handoutsheaders/Project Lesson 4.5.jpg)
 # Introduction
 
 At this step we will discuss a couple of other options for project management tools.
