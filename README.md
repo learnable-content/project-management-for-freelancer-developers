@@ -1,4 +1,4 @@
-![](headers/Project Lesson 3.2.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 3.2.jpg)
 # Introduction
 
 At this step we are going to talk about managing your own projects as a freelancer.
