@@ -1,4 +1,4 @@
-![](headers/Project Lesson 3.1.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 3.1.jpg)
 # Introduction
 
 In this lesson we are going to talk about creating your own project management system.
