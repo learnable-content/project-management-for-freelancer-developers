@@ -1,4 +1,4 @@
-![](headers/Project Lesson 4.1.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 4.1.jpg)
 # Introduction
 
 Thus far, we've just discussed the techniques and strategies that you can use to manage your projects better and why you need to do that. In this lesson, we're going to talk about how you can find the perfect project management tool for you and your business so that you can actually put all of that into action and stay organized easily. At this step we are going to discuss what to look for in a project management system.
