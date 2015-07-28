@@ -1,4 +1,4 @@
-![](headers/Project Lesson 2.2.jpg)
+![](Project_Management_for_Freelance_Developers_handouts/headers/Project Lesson 2.2.jpg)
 # Introduction
 
 At this step we are going to discuss **Lean** project management.
