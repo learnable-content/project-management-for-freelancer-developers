@@ -4,7 +4,7 @@
 At this step we're going to be talking about **Scrum** project management.
 
 # Overview of Scrum project management
-![](img/2-3_scrum.png)
+![](Project_Management_for_Freelance_Developers_handouts/img/2-3_scrum.png)
 
 Scrum is the oldest method that we've reviewed so far. It has its origins in the late 80s, early 90s. It's similar to Agile, but there's a couple of specific differences, which we're going to get into in a minute.
 
